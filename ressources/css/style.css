@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #252526;
+}
+
+h1 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1.25;
+}
+
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+
+
+main {
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+
+.category {
+    margin-top: 50px;
+}
+
+button {
+    font-size: 50px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    padding: 0px 20px;
+    border-radius: 30px;
+    text-align: center;
+    border: none;
+}
+
+#black {
+    background-color: #252526;
+    color:white;
+}
+
+#terracotta {
+    background-color: #D95204;
+    color:#F29829;
+}
+
+#off-white {
+    background-color: #D8D9D7;
+}
+
+#cobalt {
+    background-color: #1120C2;
+    color:#D8D9D7;
+}
+
+#glazed {
+    background-image: url("../images/glazed.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.text-bloc {
+    margin-top: 25px;
+    width: 70%;
+}
+
+.tag {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.technical-descrition {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    font-weight: 400;
+}
